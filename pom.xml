@@ -47,6 +47,7 @@
         <module>logbook-okhttp2</module>
         <module>logbook-servlet</module>
         <module>logbook-spring</module>
+        <module>logbook-ktor</module>
         <module>logbook-spring-boot-autoconfigure</module>
         <module>logbook-spring-boot-webflux-autoconfigure</module>
         <module>logbook-spring-boot-starter</module>
